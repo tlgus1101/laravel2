@@ -1,7 +1,7 @@
 <html>
 <head><title>board</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-   <link href="/../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+   <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
 <body>
@@ -60,7 +60,7 @@
     ?>
     <div id="tb" name="tb"></div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-   <script src="/../bootstrap/js/bootstrap.min.js"></script>
+   <script src="/bootstrap/js/bootstrap.min.js"></script>
 
     <script>
         function ch(s) {
